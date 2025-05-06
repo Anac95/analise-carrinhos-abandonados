@@ -1,3 +1,42 @@
+
+📊 Análise de Carrinhos Abandonados em E-commerce
+Este projeto simula uma análise de dados sobre carrinhos abandonados em um e-commerce. O objetivo é identificar padrões de comportamento do usuário que possam ajudar o negócio a reduzir perdas e aumentar conversões.
+
+🔧 Ferramentas Utilizadas
+Python
+
+Jupyter Notebook
+
+Pandas
+
+Matplotlib & Seaborn
+
+CSV (dados simulados)
+
+▶️ Como Usar
+Clone o repositório ou baixe o projeto como .zip:
+
+git clone https://github.com/Anac95/analise-carrinhos-abandonados.git
+Abra o notebook analise_carrinhos.ipynb no Jupyter Notebook.
+
+Execute todas as células em ordem para carregar os dados, gerar os gráficos e visualizar os insights.
+
+📸 Exemplos de Visualizações
+Horário com mais abandono de carrinhos:
+
+Categorias mais afetadas:
+
+💡 Você pode capturar imagens dos gráficos do Jupyter e salvar na pasta /images para usar aqui.
+
+📌 Principais Insights
+Os horários de 20h a 23h concentram a maior taxa de abandono de carrinhos.
+
+As categorias "Moda Feminina" e "Eletrônicos" são as mais afetadas.
+
+Dispositivos móveis têm maior taxa de abandono comparado ao desktop.
+
+Clientes recorrentes abandonam menos que visitantes novos.
+
 🛒 Análise de Carrinhos Abandonados em E-commerce
 Este projeto tem como objetivo analisar dados simulados de carrinhos abandonados em um e-commerce, identificando padrões de comportamento que possam ajudar a melhorar a taxa de conversão e a experiência do cliente.
 
